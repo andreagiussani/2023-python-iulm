@@ -1,13 +1,14 @@
 # Metodi e strumenti per l'analisi della comunicazione
 
 ## Speaker info
-This webinar is held by Andrea Giussani, Academic Fellow in COmputer Science at Bocconi University, and Data Scientist at Cloud Academy.
-You can reach him out either at [:email:](andrea.giussani@unibocconi.it) or on [Linkedin](https://it.linkedin.com/in/andrea-giussani-764816148?trk=public_profile_samename_mini-profile_title)
+This webinar is held by Andrea Giussani, Academic Fellow in Computer Science at Bocconi University, and Data Scientist at Cloud Academy.
+You can reach him out either at [:email:](andrea.giussani@unibocconi.it) or on Linkedin [:zap:](https://it.linkedin.com/in/andrea-giussani-764816148?trk=public_profile_samename_mini-profile_title)
 
 ## Repository Structure
 You will find:
- - a `data` folder containing the data used in this course;
- 
+ - a `class_material` folder containing the class material used in this course;
+ - a `extra_material` folder containing extra material from which you might benefit from;
+
 ## Setting Up the Google Colab Environment
 
 The Google Colab is a product from Google Research which allows
@@ -33,13 +34,13 @@ drive.mount('/content/drive')
 After an authorisation check, you will be able to interact with your drive content either from the file browser side panel (easier) or using command-line utilities.
 
 ### 3. Clone the GitHub Repository on your Drive
-I suggest to create a folder inside your drive. For example, call it `iulm-2022`. Then, in any colab notebook cell, type the following commands
+I suggest to create a folder inside your drive. For example, call it `iulm-2023`. Then, in any colab notebook cell, type the following commands
 ```python
-%cd '/content/drive/My Drive/iulm-2022'
+%cd '/content/drive/My Drive/iulm-2023'
 ```
 and then clone the following repository:
 ```python
-!git clone https://github.com/cloudacademy/2022-python-iulm.git
+!git clone https://github.com/cloudacademy/2023-python-iulm.git
 ```
 
 ### 4. Open the template .ipynb file from your drive

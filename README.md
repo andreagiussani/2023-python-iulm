@@ -1,8 +1,8 @@
 # Metodi e strumenti per l'analisi della comunicazione
 
 ## Speaker info
-This webinar is held by Andrea Giussani, Academic Fellow in Computer Science at Bocconi University, and Data Scientist at Cloud Academy.
-You can reach him out either at [:email:](andrea.giussani@unibocconi.it) or on Linkedin [:zap:](https://it.linkedin.com/in/andrea-giussani-764816148?trk=public_profile_samename_mini-profile_title)
+This course is held by Andrea Giussani, Academic Fellow in Computer Science at Bocconi University.
+You can reach him out either at [:email:](andrea.giussani@unibocconi.it) or on Linkedin [:zap:](https://it.linkedin.com/in/andrea-giussani)
 
 ## Repository Structure
 You will find:
